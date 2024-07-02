@@ -15,25 +15,25 @@ Ensure Docker is installed on your system. For installation instructions, see th
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/pratikshanaik12/FetchRewardsService.git
+    git clone https://github.com/pratikshanaik12/FetchRewardsChallenge.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```sh
-    cd FetchRewardsService
+    cd FetchRewardsChallenge
     ```
 
 3. **Build the Docker image:**
 
     ```sh
-    docker build -t fetchrewardsservice .
+    docker build -t fetchrewardschallenge .
     ```
 
 4. **Run the Docker container:**
 
     ```sh
-    docker run -dp 3000:3000 fetchrewardsservice
+    docker run -dp 3000:3000 fetchrewardschallenge
     ```
 
     The application will now be accessible at `http://localhost:3000`.
