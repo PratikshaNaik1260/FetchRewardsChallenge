@@ -1,10 +1,10 @@
-# FetchRewardsService
+# FetchRewardsChallenge
 
-Welcome to the FetchRewardsService! This Node.js service processes receipts and calculates reward points based on predefined criteria.
+Welcome to the FetchRewardsChallenge! This Node.js service processes receipts and calculates reward points based on predefined criteria.
 
 ## Getting Started
 
-Follow these instructions to get the FetchRewardsService running on your local machine for development and testing purposes.
+Follow these instructions to get the FetchRewardsChallenge running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
